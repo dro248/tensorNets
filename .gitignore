@@ -1,0 +1,5 @@
+male/
+female/
+train/
+val/
+*.gz
